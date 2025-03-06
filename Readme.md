@@ -37,8 +37,6 @@ Default login credentials:
 | Admin | admin@labellavita.com | admin123 |
 | Manager | manager@labellavita.com | manager123 |
 
-**Important**: Please change these default passwords immediately after your first login for security purposes.
-
 ### User Roles
 
 - **Admin**: Full access to all features and settings
